@@ -3,6 +3,6 @@
     "short_name": "Element",
     "start_url": "index.html",
     "display": "standalone",
-    "background_color": "#fff",
-    "theme_color": "#800080"
+    "background_color": "#36393f",
+    "theme_color": "#36393f"
 }
